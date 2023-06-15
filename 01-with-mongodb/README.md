@@ -23,4 +23,9 @@ express @4.18.2
 body-parser @1.20.1
 mongoose @6.8.0
 ```
+## Run
+```shell
+npm install
+nodemon index.js
+```
 
