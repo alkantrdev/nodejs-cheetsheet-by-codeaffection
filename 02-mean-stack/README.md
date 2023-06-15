@@ -15,6 +15,7 @@
 
 2 - [MEAN Stack CRUD Operations - Angular 15](https://youtu.be/NdyqAUwkUg4)
     [Git](https://github.com/CodAffection/MEAN-Stack-CRUD-with-Angular-15/tree/main)
+    
     - 00:00 - Quick Demo
     - 01:27 - Create an Angular Project
     - 06:13 - Structure of the App
