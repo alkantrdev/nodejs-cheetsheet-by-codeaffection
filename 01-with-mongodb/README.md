@@ -25,6 +25,7 @@ mongoose @6.8.0
 ```
 ## Run
 ```shell
+npm install
 nodemon index.js
 ```
 
